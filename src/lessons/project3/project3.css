@@ -1,0 +1,17 @@
+.projectTitle {
+  display: block;
+  color: #fff;
+  padding: 15px 0;
+  font-size: 2.5rem;
+  background-color: #343a41;
+}
+
+.user-details {
+  padding: 20px;
+  background-color: #f7f7f7;
+}
+
+.avatar {
+  width: 100px;
+  height: 100px;
+}

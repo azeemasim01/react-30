@@ -1,0 +1,16 @@
+.time {
+  color: white;
+  font-size: 3rem;
+  position: relative;
+  display: block;
+  margin-top: 45px;
+  color: rgb(117, 249, 77);
+}
+.timecontainer {
+  background-color: black;
+  text-align: center;
+  height: 175px;
+  width: 400px;
+  border: 10px solid rgb(117, 249, 77);
+  border-radius: 20px;
+}
